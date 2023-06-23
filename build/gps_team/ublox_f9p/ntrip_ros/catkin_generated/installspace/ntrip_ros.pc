@@ -1,0 +1,8 @@
+prefix=/home/foscar/ISCC_2023/install
+
+Name: ntrip_ros
+Description: Description of ntrip_ros
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
